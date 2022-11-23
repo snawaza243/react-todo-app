@@ -1,0 +1,162 @@
+body {
+    background-color: #000;
+    color: #fff
+}
+
+.main-div {
+    background-color: #000;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    text-align: center
+}
+
+.child-div {
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 50px;
+    box-sizing: initial;
+    width: 400px;
+    height: 100%;
+    background-color: transparent;
+}
+
+
+.head-hero {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-left: 2px solid;
+    justify-content: space-between;
+    padding-left: 10px;
+    margin-bottom: 20px
+}
+
+.head-hero>.fa:hover {
+    color: #fff;
+    cursor: unset
+}
+
+.add-items {
+    display: flex;
+    align-items: center;
+    color: red;
+    overflow: hidden;
+    justify-content: space-between;
+    margin: 5px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 2px solid #000
+}
+
+.add-items:hover {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: aqua;
+    -webkit-box-shadow: 0 0 5px 2px #fff;
+    -moz-box-shadow: 0 0 5px 2px #fff;
+    box-shadow: 0 0 5px 5px aqua;
+    transition: 0.2s;
+}
+
+.plus-icon:hover {
+    color: #fff
+}
+
+.plus-icon:active {
+    color: #000;
+    font-weight: 700
+}
+
+.form-control {
+    font-weight: bolder;
+    height: 55px;
+    border: none
+}
+
+.each-item {
+    color: #fff;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-between;
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+    font-weight: 700;
+    height: 55px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.each-item:hover {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition: 0.2s;
+    box-shadow: 0 0 10px aqua;
+    /* outline: 5px dotted ; */
+    /* -webkit-text-stroke: 1px black; */
+}
+
+.show-item {
+    color: #fff;
+    justify-content: center
+}
+
+.todo-btn {
+    color: red;
+    margin-right: -9px
+}
+
+.todo-btn>.fa:hover {
+    color: #fff
+}
+
+.todo-btn>.fa:active {
+    color: #000
+}
+
+.btn {
+    background-color: #fff;
+    border-radius: 5px
+}
+
+.btn:hover {
+    background-color: blue
+}
+
+.fa {
+    cursor: pointer;
+    padding: 10px;
+    right: 0;
+    text-align: right
+}
+
+.clear-btn {
+    border-radius: 50%;
+    color: #f00000;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    display: contents;
+    align-items: center;
+    justify-content: center
+}
+
+.add-on-click:hover {
+    color: #fff
+}
+
+.add-on-click:active {
+    color: #000
+}
+
+.iconTag{
+    font-size: 10px;
+    margin-top: 120px;
+    inline-size: 0.5;
+}
