@@ -28,7 +28,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# New intracting dark ui "To Do Web Application" Auto save permanent (But yuo can delete your own edited items)
+# New intracting dark ui "To Do Web Application" 
+# Auto save customizable
 ![image](https://user-images.githubusercontent.com/91892524/226100860-b6eef71a-336a-47ba-a2c6-319eca237972.png)
 
 
