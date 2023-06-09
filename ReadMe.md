@@ -45,7 +45,7 @@ Here are some ideas for future improvements to the app:
 
 - Categorize tasks: Allow users to categorize their tasks into different groups or projects.
 
-- Cloud-based storage: Integrate the app with a cloud-based storage service, such as Google Drive or Dropbox, to allow users to access their to-do lists from multiple devices.
+- Save data locally : Integrate the app with a cloud-based storage service, such as Google Drive or Dropbox, to allow users to access their to-do lists from multiple devices.
 
 ## Contributing
 
